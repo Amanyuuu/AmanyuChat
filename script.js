@@ -10,13 +10,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDPSv_Ndj2EjMim4_qrBluy-vOfH9NNbR4",
-  authDomain: "amanyuchat.firebaseapp.com",
-  projectId: "amanyuchat",
-  storageBucket: "amanyuchat.firebasestorage.app",
-  messagingSenderId: "88080670616",
-  appId: "1:88080670616:web:1d922f36851d8e2a1595ed",
-  measurementId: "G-10JKHNH2C9"
+
   
 };
 
